@@ -117,16 +117,12 @@ footer li{
         max-width: 300px;
         margin-bottom: 16px;
     }
-    header {
-        display: flex;
-    }
-    body{
-        margin-left: 5%;
-    }
-    section .produtos{
-        max-width: 100%;
+    .container #imageLoja{
         margin-left: 16px;
-        
+    }
+    section.produtos{
+        max-width: 100%;
+        margin-left: 18px;
     }
     .lista-produtos{
         flex-wrap: wrap;
